@@ -1,0 +1,6 @@
+c:\users\java\documents\visual studio 2015\Projects\First_GeneralCompetence\First_GeneralCompetence\bin\Debug\First_GeneralCompetence.exe.config
+c:\users\java\documents\visual studio 2015\Projects\First_GeneralCompetence\First_GeneralCompetence\bin\Debug\First_GeneralCompetence.exe
+c:\users\java\documents\visual studio 2015\Projects\First_GeneralCompetence\First_GeneralCompetence\bin\Debug\First_GeneralCompetence.pdb
+c:\users\java\documents\visual studio 2015\Projects\First_GeneralCompetence\First_GeneralCompetence\obj\Debug\First_GeneralCompetence.csprojResolveAssemblyReference.cache
+c:\users\java\documents\visual studio 2015\Projects\First_GeneralCompetence\First_GeneralCompetence\obj\Debug\First_GeneralCompetence.exe
+c:\users\java\documents\visual studio 2015\Projects\First_GeneralCompetence\First_GeneralCompetence\obj\Debug\First_GeneralCompetence.pdb

@@ -1,0 +1,51 @@
+A menu system.
+
+a series of selections which lead to seperate parts of the program.
+User is asked if they would like to repeat an activity or go back to the previous menu.
+User is aslo asked if they would like to go back to the main menu.
+
+Random number generated in form of integer. This value determins a slot machine item.
+Items can are stored in an inventory. 
+
+Inventory can contain up to 10 items. Items may be used, disgarded, or sold.
+
+Activities cost coins. Coins are earned by battling other monsters. 
+
+
+
+1) Battle other monsters.
+2) Purchase new monster.
+3) Play the slot machine.
+4) View inventory.
+5) Enter monster menu.
+
+=======================================================================================
+
+Initial monster is given to player.
+Monster is then named. 
+
+Player is then shown a menu.
+
+**********************************************************
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+*							 *
+**********************************************************
+
